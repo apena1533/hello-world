@@ -1,2 +1,3 @@
 # hello-world
 Exercise from https://guides.github.com/activities/hello-world/
+This is step #3 to Make and Commit changes...
